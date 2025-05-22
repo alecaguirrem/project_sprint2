@@ -1,2 +1,2 @@
-# project_sprint2
-Sprint 2 Final project
+# Project Sprint 2
+Sprint 2, 
